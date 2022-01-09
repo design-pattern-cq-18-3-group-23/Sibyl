@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SibylDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SibylDemo_jar</output-path>
+    <root id="archive" name="SibylDemo.jar">
+      <element id="module-output" name="SibylDemo" />
+      <element id="module-output" name="SibylLib" />
+    </root>
+  </artifact>
+</component>

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Sibyl.iml" filepath="$PROJECT_DIR$/Sibyl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SibylDemo/SibylDemo.iml" filepath="$PROJECT_DIR$/SibylDemo/SibylDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SibylLib/SibylLib.iml" filepath="$PROJECT_DIR$/SibylLib/SibylLib.iml" />
     </modules>
   </component>
 </project>

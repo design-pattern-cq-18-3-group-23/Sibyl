@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 public abstract class AbstractRegExRule implements IValidationRule<String> {
     @Override
-    public boolean isValid(String value) {
+    public final boolean isValid(String value) {
         Pattern pattern = getPattern();
         Matcher matcher = pattern.matcher(value);
         return matcher.find();
