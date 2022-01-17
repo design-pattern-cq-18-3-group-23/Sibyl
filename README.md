@@ -1,4 +1,8 @@
-# Sơ đồ lớp
+# Sibyl
+
+Đồ án Validation Framework môn Mẫu thiết kế hướng đối tượng
+
+## Sơ đồ lớp
 
 [DrawIODiagram](https://app.diagrams.net/#G1SOvu2uyVjhzjRU7mgmaGAEXy17UfVIOQ)
 
